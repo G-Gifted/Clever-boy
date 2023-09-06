@@ -9,3 +9,4 @@ function play(){
     overload.pause();
     icon.src = 'play.jpg';
   }
+  }
