@@ -141,7 +141,7 @@ nav ul li:first-child{
   margin-bottom: -0.4em;
 }
 
-@media screen and (min-width:400px){
+@media screen and (min-width:480px){
   .home{
     margin-left: 50%;
   }
